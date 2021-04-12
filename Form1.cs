@@ -32,11 +32,12 @@ namespace TimeMuka
         public static int locx = 0;
         public static int locy = 0;
 
-        public Form1()
+        public Form1(string[] args)
         {
             InitializeComponent();
 
-            
+            if (args.Length > 0) { Console.WriteLine("test");  } // agrumenti
+ 
 
             if (!File.Exists(curFile))
             {

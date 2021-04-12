@@ -16,3 +16,4 @@ C:\Users\enushka\Desktop\TimeMuka\obj\Debug\TimeMuka.pdb
 C:\Users\enushka\Desktop\TimeMuka\obj\Debug\TimeMuka.Form1.resources
 C:\Users\enushka\Desktop\TimeMuka\bin\Debug\TimeMuka.exe
 C:\Users\enushka\Desktop\TimeMuka\bin\Debug\TimeMuka.pdb
+C:\Users\enushka\Source\Repos\TimeMuka\bin\Debug\TimeMuka.exe.config

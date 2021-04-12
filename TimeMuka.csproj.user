@@ -13,4 +13,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
     <RemoteDebugEnabled>false</RemoteDebugEnabled>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>-test -grafs</StartArguments>
+  </PropertyGroup>
 </Project>
