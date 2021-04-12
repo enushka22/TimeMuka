@@ -1,0 +1,9 @@
+C:\Users\enushka\Source\Repos\TimeMuka\bin\x86\Release\TimeMuka.exe
+C:\Users\enushka\Source\Repos\TimeMuka\bin\x86\Release\TimeMuka.pdb
+C:\Users\enushka\Source\Repos\TimeMuka\obj\x86\Release\TimeMuka.csprojAssemblyReference.cache
+C:\Users\enushka\Source\Repos\TimeMuka\obj\x86\Release\TimeMuka.Form1.resources
+C:\Users\enushka\Source\Repos\TimeMuka\obj\x86\Release\TimeMuka.Properties.Resources.resources
+C:\Users\enushka\Source\Repos\TimeMuka\obj\x86\Release\TimeMuka.csproj.GenerateResource.cache
+C:\Users\enushka\Source\Repos\TimeMuka\obj\x86\Release\TimeMuka.csproj.CoreCompileInputs.cache
+C:\Users\enushka\Source\Repos\TimeMuka\obj\x86\Release\TimeMuka.exe
+C:\Users\enushka\Source\Repos\TimeMuka\obj\x86\Release\TimeMuka.pdb
